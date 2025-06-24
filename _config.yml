@@ -96,7 +96,7 @@ content:
       - layout: left
         title: Infrastructure
         description: |
-          - MySQL, MariaDB  
+          - MySQL, PostgreSQL, MSSQL  
           - Jenkins  
           - Linux (CentOS)  
           - Nginx, Tomcat
