@@ -33,5 +33,5 @@ jobs:
           publish_dir: ./_site
           destination_dir: .
           publish_branch: gh-pages
-          user_name: Hyungseok Kim
+          user_name: hyungseokkim
           user_email: khkhvv@gmail.com
