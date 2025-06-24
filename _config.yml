@@ -1,7 +1,8 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
+baseurl: /en
+url: https://hyungseokkim.github.io
 # Content configuration version
 version: 2
 
