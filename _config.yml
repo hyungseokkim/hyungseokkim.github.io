@@ -40,30 +40,41 @@ content:
         description: |
           **Tech Stack:** Java (Spring Boot), PHP, JavaScript, React, MySQL
 
-          - **Data Migration for Labor Law Platform (PHP, MySQL):** Migrated legacy VB system data to a new PHP-based solution
-          - **Excel Bulk Upload (PHP, MySQL):** Simplified client workflows by building a bulk data registration feature
-          - **GPS-based Attendance System:** Improved accuracy and security through coordinate encryption
-          - **Next-gen system renewal (React, Spring Boot):** Contributed to frontend and backend renewal for better maintainability and scalability
+          - **Data Migration for Labor Law Platform (PHP, MySQL):** 
+          Migrated legacy VB system data to a new PHP-based solution
+          - **Excel Bulk Upload (PHP, MySQL):** 
+          Simplified client workflows by building a bulk data registration feature
+          - **GPS-based Attendance System:** 
+          Improved accuracy and security through coordinate encryption
+          - **Legacy system migration (React, Spring Boot):** 
+          Led partial frontend and backend migration to a modern tech stack for better maintainability
+
 
       - layout: left
         title: WIZCORE Research Lab
         sub_title: Developer
         caption: May 2020 – Aug 2022
         description: |
-          **Tech Stack:** Java (Spring Boot), JavaScript/TypeScript, React, Python (FastAPI, Django), PostgreSQL
+          **Tech Stack:** 
+          Java (Spring Boot), JavaScript/TypeScript, React, Python (FastAPI, Django), PostgreSQL
 
-          - **Cutting Tool Platform:** Full-stack development for government-funded R&D (Spring Boot + React)
-          - **Image Labeling System:** Built and maintained a cloud-based image labeling and storage system
+          - **Cutting Tool Platform:** 
+          Full-stack development for government-funded R&D (Spring Boot + React)
+          - **Image Labeling System:** 
+          Built and maintained a cloud-based image labeling and storage system
 
       - layout: left
         title: JeinSoft
         sub_title: Software Engineer
         caption: Jan 2018 – Apr 2019
         description: |
-          **Tech Stack:** Java (Spring, MyBatis), JSP, JavaScript/jQuery, PostgreSQL, Automation Anywhere
+          **Tech Stack:** 
+          Java (Spring, MyBatis), JSP, JavaScript/jQuery, PostgreSQL, Automation Anywhere
 
-          - **Samsung Office Automation System:** Developed RPA workflows using Automation Anywhere
-          - **KT Estate ERP System:** Implemented and maintained MyBatis-based ERP–accounting integration
+          - **Samsung Office Automation System:** 
+          Developed RPA workflows using Automation Anywhere
+          - **KT Estate ERP System:** 
+          Implemented and maintained MyBatis-based ERP–accounting integration
 
       - layout: left
         title: OnezeroSoft
