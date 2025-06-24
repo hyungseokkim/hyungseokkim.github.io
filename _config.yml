@@ -129,3 +129,17 @@ content:
         link: https://tasteful-hardcover-8f9.notion.site/135b4bd60fd980e0a2cddb425204e5b5
         description: |
           A full list of actual project experience is available via the Notion link above.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
