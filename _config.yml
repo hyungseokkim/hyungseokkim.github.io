@@ -87,10 +87,9 @@ content:
           
           사용언어/프레임워크: **JAVA SpringBoot**, JavaScript/TypeScript **React**, Python(FastAPI, Django), PostgreSQL
 
+          - **절삭공구 플랫폼 개발:** 국책과제 풀스택 개발 (SpringBoot, React)
 
-          **절삭공구 플랫폼 개발:** 국책과제 풀스택 개발 (SpringBoot, React)
-
-          **이미지 분석 서비스:** 클라우드 기반 스토리지/이미지 레이블링 시스템 개발 및 관리
+          - **이미지 분석 서비스:** 클라우드 기반 스토리지/이미지 레이블링 시스템 개발 및 관리
 
       - layout: left
         title: 제인소프트
@@ -98,12 +97,11 @@ content:
         caption: 2018년 1월 - 2019년 4월
         description: |
 
-          사용언어/프레임워크: **JAVA Spring(Mybatis)**, JavaScript/JQuery, **JSP**, AutomationAnywhere, PostgreSQL
+          사용언어/프레임워크: **JAVA Spring(MyBatis)**, JavaScript/JQuery, **JSP**, AutomationAnywhere, PostgreSQL
 
+          - **삼성전자 사무자동화 시스템 구축:** AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
 
-          **삼성전자 사무자동화 시스템 구축:** AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
-
-          **KTEstate ERP 시스템:** MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
+          - **KTEstate ERP 시스템:** MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
 
       - layout: left
         title: 원제로소프트
@@ -113,10 +111,9 @@ content:
 
           사용언어/프레임워크: AngularJS, MSSQL, **Classic ASP**, JavaScript(JQuery), Node.js
 
+          - **닥터셀러 주문 알림 서비스:** 실시간 주문처리 상태 알림 및 CS처리 서비스 개발 (ASP, AngularJS)
 
-          **닥터셀러 주문 알림 서비스:** 실시간 주문처리 상태 알림 및 CS처리 서비스 개발 (ASP, AngularJS)
-
-          **스마트도매몰 SCM 시스템:** 웹 수주/발주 관리 시스템 구축 및 리팩토링 (ASP, JQuery)
+          - **스마트도매몰 SCM 시스템:** 웹 수주/발주 관리 시스템 구축 및 리팩토링 (ASP, JQuery)
 
         
 
