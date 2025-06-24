@@ -139,7 +139,7 @@ content:
         **삼성전자 사무자동화 시스템 구축:** AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
         **KTEstate ERP 시스템:** MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
 
-    * layout: left
+      layout: left
       title: 원제로소프트
       sub\_title: 연구원
       caption: 2016년 1월 - 2017년 7월
