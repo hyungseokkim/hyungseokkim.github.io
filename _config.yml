@@ -71,13 +71,17 @@ content:
 
           사용언어/프레임워크: **JAVA SpringBoot**, **PHP**, JavaScript, **React**, MySQL
 
-          - **노무사 플랫폼 자료 이관 프로젝트(PHP, MySQL):** 기존 노무법인에서 사용하던 VB 기반 시스템 종료로 인해, 새로운 솔루션 환경에 맞춰 마이그레이션 수행
+          - **노무사 플랫폼 자료 이관 프로젝트(PHP, MySQL)** 
+          기존 노무법인에서 사용하던 VB 기반 시스템 종료로 인해, 새로운 솔루션 환경에 맞춰 마이그레이션 수행
           
-          - **엑셀 일괄 업로드 기능(PHP, MySQL):** 대량 데이터 처리 효율화로 클라이언트 업무 간소화 기여
+          - **엑셀 일괄 업로드 기능(PHP, MySQL)** 
+          대량 데이터 처리 효율화로 클라이언트 업무 간소화 기여
 
-          - **GPS 기반 출퇴근 관리 시스템 개선:** 좌표 암호화 저장 및 출퇴근 인증 신뢰도 향상
+          - **GPS 기반 출퇴근 관리 시스템 개선** 
+          좌표 암호화 저장 및 출퇴근 인증 신뢰도 향상
 
-          - **휴램 차세대 개발 (React, SpringBoot):** 프론트·백엔드 리뉴얼을 통해 유지보수성과 확장성 개선
+          - **휴램 차세대 개발 (React, SpringBoot)** 
+          프론트·백엔드 리뉴얼을 통해 유지보수성과 확장성 개선
 
 
       - layout: left
@@ -88,9 +92,11 @@ content:
           
           사용언어/프레임워크: **JAVA SpringBoot**, JavaScript/TypeScript **React**, Python(FastAPI, Django), PostgreSQL
 
-          - **절삭공구 플랫폼 개발:** 국책과제 풀스택 개발 (SpringBoot, React)
+          - **절삭공구 플랫폼 개발** 
+          국책과제 풀스택 개발 (SpringBoot, React)
 
-          - **이미지 레이블링:** 클라우드 기반 스토리지/이미지 레이블링 시스템 개발 및 관리
+          - **이미지 레이블링** 
+          클라우드 기반 스토리지/이미지 레이블링 시스템 개발 및 관리
 
       - layout: left
         title: 제인소프트
@@ -100,9 +106,11 @@ content:
 
           사용언어/프레임워크: **JAVA Spring(MyBatis)**, JavaScript/JQuery, **JSP**, AutomationAnywhere, PostgreSQL
 
-          - **삼성전자 사무자동화 시스템 구축:** AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
+          - **삼성전자 사무자동화 시스템 구축** 
+          AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
 
-          - **KTEstate ERP 시스템:** MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
+          - **KTEstate ERP 시스템** 
+          MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
 
       - layout: left
         title: 원제로소프트
