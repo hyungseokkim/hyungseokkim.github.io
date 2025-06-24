@@ -81,7 +81,7 @@ content:
       - layout: left
         title: 휴램프로
         sub_title: 선임연구원
-        caption: 2022년 9월 \~ 2024년 11월
+        caption: 2022년 9월 - 2024년 11월
         description: |
 
 
@@ -95,45 +95,6 @@ content:
 
           - **휴램 차세대 개발 (React, SpringBoot):** 프론트·백엔드 리뉴얼을 통해 유지보수성과 확장성 개선
 
-
-
-          ##### 프로젝트 명: 올더페이-휴램프로 자료 이관
-
-          기간: 2024년 5월 \~ 2024년 11월
-
-          역할: 백엔드 개발(API)
-
-          기여도: 100%
-
-
-
-          ##### 프로젝트 명: 휴램 엑셀 일괄 업로드 기능
-
-          기간: 2024년 1월 \~ 2024년 2월
-
-          역할: 백엔드 개발(API)
-
-          기여도: 30%
-
-
-
-          ##### 프로젝트 명: 사원앱 유지보수 및 기능 고도화
-
-          기간: 2023년 5월 \~ 2024년 11월
-
-          역할: 백엔드 개발(API)
-
-          기여도: 40%
-
-
-
-          ##### 프로젝트 명: 휴램 차세대 시스템 구축
-
-          기간: 2022년 9월 \~ 개발 중단 시점
-
-          역할: 프론트·백엔드 개발
-
-          기여도: 50%
 
       - layout: left
         title: 위즈코어 기술연구소
@@ -177,31 +138,65 @@ content:
         
 
 
-  - title: Education # Title for the section
+  - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Backend
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - Java, PHP
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - Spring Boot, Spring MVC, Spring Batch
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+          - MyBatis, JPA
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+          - Gradle, Maven
+
+          - IntelliJ, Eclipse
+
+
+      - layout: left
+        title: Frontend
+        description: | # this will include new lines to allow paragraphs
+          - JavaScript (ES6)
+
+          - React
+
+
+      - layout: left
+        title: Infra
+        description: | # this will include new lines to allow paragraphs
+          - MySQL, MariaDB
+
+          - Jenkins
+
+          - Linux (CentOS)
+
+          - Nginx, Tomcat
+
+
+      - layout: left
+        title: ETC
+        description: | # this will include new lines to allow paragraphs
+          - Git, GitHub, GitLab
+
+          - Postman, SourceTree
+
+          - Notion, Slack, Asana
+
+
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
