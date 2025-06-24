@@ -147,7 +147,7 @@ content:
       - layout: left
         title: Infra
         description: | # this will include new lines to allow paragraphs
-          - MySQL, MariaDB
+          - MySQL, PostgreSQL, MSSQL
 
           - Jenkins
 
