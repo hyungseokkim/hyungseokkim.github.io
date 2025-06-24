@@ -1,0 +1,37 @@
+name: Deploy English Resume
+
+on:
+  push:
+    branches:
+      - english
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout English Branch
+        uses: actions/checkout@v3
+        with:
+          ref: english
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install Jekyll & Bundler
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build --destination _site/en
+
+      - name: Deploy to gh-pages/en
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site/en
+          destination_dir: en
+          publish_branch: gh-pages
