@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 김형석 (KimHyungseok)
-title: 웹 개발자(Web Developer)
+name: Hyungseok Kim
+title: Web Developer
 email: khkhvv@gmail.com
 website: www.github.com/hyungseokkim
 
@@ -15,153 +15,96 @@ website: www.github.com/hyungseokkim
 darkmode: false
 
 # Social links
-# twitter_username: facespics
-github_username:  hyungseokkim
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+github_username: hyungseokkim
 instagram_username: kenneth_kim90
 linkedin_username: 형석-김-a12385152
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
 about_content: |
-  만 7년 경력의 <mark>웹 백엔드 개발자</mark>입니다. 다양한 산업군에서 <mark>ERP</mark>, <mark>플랫폼 API</mark>, <mark>백오피스 시스템</mark> 등을 개발하며 실무 역량을 쌓아왔습니다.
+  I'm a <mark>backend web developer</mark> with over 7 years of hands-on experience. I've worked across various industries, building <mark>ERP systems</mark>, <mark>platform APIs</mark>, and <mark>admin tools</mark>.
 
-  <mark>Java(SpringBoot)</mark>, <mark>PHP</mark> 기반 백엔드 개발에 강점을 가지고 있으며, MySQL 및 PostgreSQL 등 주요 RDBMS를 활용한 데이터 구조 설계, 이관 처리, API 개발 경험이 풍부합니다. 최근에는 <mark>React</mark> 기반 프론트엔드 개발에도 일부 참여하며 서비스 전반에 대한 이해를 넓히고 있습니다.
-  
-  형상 관리는 Git Flow 기반의 브랜치 전략을 따르고, 문서화는 Notion과 Swagger를 활용해 API와 업무 흐름을 정리하고 공유합니다.
-  구성원 간의 원활한 커뮤니케이션과 협업을 위해 스크럼과 회고 문화에 익숙하며,
-  실무에서는 기획자·디자이너 등 타 직군과도 적극적으로 소통해왔습니다.
-  
+  My main expertise lies in backend development using <mark>Java (Spring Boot)</mark> and <mark>PHP</mark>, with strong proficiency in RDBMS such as MySQL and PostgreSQL. I've also participated in frontend development using <mark>React</mark>, gaining a broader understanding of the entire development flow.
+
+  I follow Git Flow-based branching strategies, and actively document APIs and workflows using Notion and Swagger. I'm comfortable working in cross-functional teams with planners, designers, and other developers, and enjoy collaborative environments with agile processes like Scrum and retrospectives.
+
 content:
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: 휴램프로
-        sub_title: 선임연구원
-        caption: 2022년 9월 - 2024년 11월
+        title: HULAMPRO
+        sub_title: Senior Developer
+        caption: Sep 2022 - Nov 2024
         description: |
+          **Tech Stack:** Java (Spring Boot), PHP, JavaScript, React, MySQL
 
-
-          사용언어/프레임워크: **JAVA SpringBoot**, **PHP**, JavaScript, **React**, MySQL
-
-          - **노무사 플랫폼 자료 이관 프로젝트(PHP, MySQL):** 기존 노무법인에서 사용하던 VB 기반 시스템 종료로 인해, 새로운 솔루션 환경에 맞춰 마이그레이션 수행
-          
-          - **엑셀 일괄 업로드 기능(PHP, MySQL):** 대량 데이터 처리 효율화로 클라이언트 업무 간소화 기여
-
-          - **GPS 기반 출퇴근 관리 시스템 개선:** 좌표 암호화 저장 및 출퇴근 인증 신뢰도 향상
-
-          - **휴램 차세대 개발 (React, SpringBoot):** 프론트·백엔드 리뉴얼을 통해 유지보수성과 확장성 개선
-
+          - **Data Migration for Labor Law Platform (PHP, MySQL):** Migrated legacy VB system data to a new PHP-based solution
+          - **Excel Bulk Upload (PHP, MySQL):** Simplified client workflows by building a bulk data registration feature
+          - **GPS-based Attendance System:** Improved accuracy and security through coordinate encryption
+          - **Next-gen system renewal (React, Spring Boot):** Contributed to frontend and backend renewal for better maintainability and scalability
 
       - layout: left
-        title: 위즈코어 기술연구소
-        sub_title: 연구원
-        caption: 2020년 5월 - 2022년 8월
+        title: WIZCORE Research Lab
+        sub_title: Developer
+        caption: May 2020 – Aug 2022
         description: |
-          
-          사용언어/프레임워크: **JAVA SpringBoot**, JavaScript/TypeScript **React**, Python(FastAPI, Django), PostgreSQL
+          **Tech Stack:** Java (Spring Boot), JavaScript/TypeScript, React, Python (FastAPI, Django), PostgreSQL
 
-          - **절삭공구 플랫폼 개발:** 국책과제 풀스택 개발 (SpringBoot, React)
-
-          - **이미지 레이블링:** 클라우드 기반 스토리지/이미지 레이블링 시스템 개발 및 관리
+          - **Cutting Tool Platform:** Full-stack development for government-funded R&D (Spring Boot + React)
+          - **Image Labeling System:** Built and maintained a cloud-based image labeling and storage system
 
       - layout: left
-        title: 제인소프트
-        sub_title: 개발팀 / 사원
-        caption: 2018년 1월 - 2019년 4월
+        title: JaneSoft
+        sub_title: Software Engineer
+        caption: Jan 2018 – Apr 2019
         description: |
+          **Tech Stack:** Java (Spring, MyBatis), JSP, JavaScript/jQuery, PostgreSQL, Automation Anywhere
 
-          사용언어/프레임워크: **JAVA Spring(MyBatis)**, JavaScript/JQuery, **JSP**, AutomationAnywhere, PostgreSQL
-
-          - **삼성전자 사무자동화 시스템 구축:** AutomationAnywhere RPA 사무 자동화 프로젝트 진행 
-
-          - **KTEstate ERP 시스템:** MyBatis 기반 ERP-회계 연동 로직 구현 및 유지보수
+          - **Samsung Office Automation System:** Developed RPA workflows using Automation Anywhere
+          - **KT Estate ERP System:** Implemented and maintained MyBatis-based ERP–accounting integration
 
       - layout: left
-        title: 원제로소프트
-        sub_title: 연구원
-        caption: 2016년 1월 - 2017년 7월
+        title: OnezeroSoft
+        sub_title: Web Developer
+        caption: Jan 2016 – Jul 2017
         description: |
+          **Tech Stack:** Classic ASP, AngularJS, MSSQL, jQuery, Node.js
 
-          사용언어/프레임워크: AngularJS, MSSQL, **Classic ASP**, JavaScript(JQuery), Node.js
+          - **Order Notification System:** Real-time customer support system for order status tracking
+          - **Smart SCM Platform:** Built and refactored B2B order/inventory management system
 
-          - **닥터셀러 주문 알림 서비스:** 실시간 주문처리 상태 알림 및 CS처리 서비스 개발 (ASP, AngularJS)
-
-          - **스마트도매몰 SCM 시스템:** 웹 수주/발주 관리 시스템 구축 및 리팩토링 (ASP, JQuery)
-
-        
-
-
-  - title: Skill # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
     content:
       - layout: left
         title: Backend
-        description: | # this will include new lines to allow paragraphs
-          - Java, PHP
-
-          - Spring Boot, Spring MVC, Spring Batch
-
-          - MyBatis, JPA
-
-          - Gradle, Maven
-
+        description: |
+          - Java, PHP  
+          - Spring Boot, Spring MVC, Spring Batch  
+          - MyBatis, JPA  
+          - Gradle, Maven  
           - IntelliJ, Eclipse
-
 
       - layout: left
         title: Frontend
-        description: | # this will include new lines to allow paragraphs
-          - JavaScript (ES6)
-
+        description: |
+          - JavaScript (ES6)  
           - React
 
-
       - layout: left
-        title: Infra
-        description: | # this will include new lines to allow paragraphs
-          - MySQL, MariaDB
-
-          - Jenkins
-
-          - Linux (CentOS)
-
+        title: Infrastructure
+        description: |
+          - MySQL, MariaDB  
+          - Jenkins  
+          - Linux (CentOS)  
           - Nginx, Tomcat
 
-
       - layout: left
-        title: ETC
-        description: | # this will include new lines to allow paragraphs
-          - Git, GitHub, GitLab
-
-          - Postman, SourceTree
-
+        title: Tools & Collaboration
+        description: |
+          - Git, GitHub, GitLab  
+          - Postman, SourceTree  
           - Notion, Slack, Asana
 
   - title: Projects
@@ -175,42 +118,14 @@ content:
             icon: fab fa-github
             url: https://github.com/hyungseokkim/springboot-clean-architecture
         quote: >
-          실무에서 바로 사용할 수 있는 구조화된 SpringBoot 템플릿
+          A ready-to-use clean architecture template for Spring Boot projects
         description: |
-          클린 아키텍처 기반으로 구성된 Spring Boot 템플릿 프로젝트입니다. 계층 간의 명확한 책임 분리와 공통 응답 포맷, 예외 처리, Swagger 문서화, MyBatis 연동 등을 포함하여 실제 현업 투입에 필요한 구성을 정리했습니다.
-          
-          신규 프로젝트를 시작할 때 반복되는 기본 작업을 줄이고, 팀원 간 협업과 유지보수가 수월하도록 설계되었습니다.
-
+          A well-structured Spring Boot template based on clean architecture.  
+          Includes layered separation, unified response formats, exception handling, Swagger docs, and MyBatis integration.  
+          Aims to reduce boilerplate and speed up team onboarding for real-world backend projects.
 
       - layout: top-middle
-        title: 포트폴리오
+        title: Portfolio
         link: https://tasteful-hardcover-8f9.notion.site/135b4bd60fd980e0a2cddb425204e5b5
         description: |
-          실제 참여한 프로젝트 목록이며, 상세 내용은 위의 노션 링크에서 확인하실 수 있습니다.  
-
-
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  #     Look at this cool image  
-  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+          A full list of actual project experience is available via the Notion link above.
