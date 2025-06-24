@@ -31,7 +31,7 @@ jobs:
       - name: Deploy to gh-pages/en
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./_site/en
           destination_dir: en
           publish_branch: gh-pages
