@@ -34,57 +34,65 @@ content:
     layout: list
     content:
       - layout: left
-        title: HULAMPRO
-        sub_title: Senior Developer
-        caption: Sep 2022 - Nov 2024
+        title: HURAMPRO
+        sub_title: Senior Research Engineer
+        caption: Sep 2022 – Nov 2024 (2 years 3 months)
         description: |
-          **Tech Stack:** Java (Spring Boot), PHP, JavaScript, React, MySQL
-
-          - **Data Migration for Labor Law Platform (PHP, MySQL):** 
-          Migrated legacy VB system data to a new PHP-based solution
-          - **Excel Bulk Upload (PHP, MySQL):** 
-          Simplified client workflows by building a bulk data registration feature
-          - **GPS-based Attendance System:** 
-          Improved accuracy and security through coordinate encryption
-          - **Legacy system migration (React, Spring Boot):** 
-          Led partial frontend and backend migration to a modern tech stack for better maintainability
-
-
+          Worked on a legacy-based labor consultant platform, focusing on resolving data integrity issues and improving system stability.
+          Handled complex operational scenarios such as service termination, inconsistent external data sources, and sensitive payroll-related data.
+  
+          - Migrated data from a VB-based legacy system scheduled for service shutdown into the new Huram platform
+          - Designed a step-by-step migration process (temporary tables → validation → production tables) to ensure data consistency
+          - Implemented row-level failure handling to prevent entire batch failures during data migration
+          - Defined validation rules based on payroll and labor domain requirements and automated migration logic
+          - Analyzed PHP-based legacy codebases and gradually refactored them into API-oriented backend services
+          - Improved GPS-based attendance management by redesigning encrypted location data storage
+          - Participated in early-stage evaluation of a next-generation system using React and Spring Boot
+  
+          Tech Stack: **Java (Spring Boot)**, **PHP**, JavaScript, **React**, MySQL
+  
       - layout: left
-        title: WIZCORE Research Lab
-        sub_title: Developer
-        caption: May 2020 – Aug 2022
+        title: Wizcore Technology Lab
+        sub_title: Research Engineer
+        caption: May 2020 – Aug 2022 (2 years 3 months)
         description: |
-          **Tech Stack:** 
-          Java (Spring Boot), JavaScript/TypeScript, React, Python (FastAPI, Django), PostgreSQL
-
-          - **Cutting Tool Platform:** 
-          Full-stack development for government-funded R&D (Spring Boot + React)
-          - **Image Labeling System:** 
-          Built and maintained a cloud-based image labeling and storage system
-
+          Participated in government-funded R&D projects, focusing on prototyping and technical validation rather than full-scale production services.
+          Gained experience rapidly adopting new technologies and applying them to experimental service architectures.
+  
+          - Developed backend APIs for machine-learning-based data visualization dashboards
+          - Built service prototypes using Spring Boot and React for AI-driven recommendation platforms
+          - Implemented cloud storage and image labeling workflows to understand end-to-end data pipelines
+          - Customized open-source solutions to meet project-specific research requirements
+  
+          Tech Stack: **Java (Spring Boot)**, **React**, Python (FastAPI, Django), PostgreSQL
+  
       - layout: left
         title: JeinSoft
         sub_title: Software Engineer
-        caption: Jan 2018 – Apr 2019
+        caption: Jan 2018 – Apr 2019 (1 year 4 months)
         description: |
-          **Tech Stack:** 
-          Java (Spring, MyBatis), JSP, JavaScript/jQuery, PostgreSQL, Automation Anywhere
-
-          - **Samsung Office Automation System:** 
-          Developed RPA workflows using Automation Anywhere
-          - **KT Estate ERP System:** 
-          Implemented and maintained MyBatis-based ERP–accounting integration
-
+          Worked in SI/SM environments maintaining and stabilizing legacy enterprise systems.
+          Took over systems after key developers left and independently handled maintenance and incident response.
+  
+          - Analyzed and maintained complex legacy systems developed by multiple engineers
+          - Worked on finance and settlement modules requiring high data accuracy
+          - Diagnosed and resolved production issues involving SQL-heavy and procedure-based logic
+  
+          Tech Stack: **Java (Spring + MyBatis)**, **JSP**, JavaScript, jQuery, PostgreSQL
+  
       - layout: left
-        title: OnezeroSoft
-        sub_title: Web Developer
-        caption: Jan 2016 – Jul 2017
+        title: OneZeroSoft
+        sub_title: Research Engineer
+        caption: Jan 2016 – Jul 2017 (1 year 7 months)
         description: |
-          **Tech Stack:** Classic ASP, AngularJS, MSSQL, jQuery, Node.js
-
-          - **Order Notification System:** Real-time customer support system for order status tracking
-          - **Smart SCM Platform:** Built and refactored B2B order/inventory management system
+          Gained hands-on experience in both frontend and backend development during early-stage web service development.
+          Focused on user input handling, notification systems, and order-processing workflows.
+  
+          - Implemented push notification services in hybrid mobile app environments
+          - Designed and developed bulk data upload features using Excel files
+          - Built data normalization and merging logic to handle inconsistent user input
+  
+          Tech Stack: **Classic ASP**, AngularJS, JavaScript (jQuery), MSSQL, Node.js
 
   - title: Skills
     layout: list
