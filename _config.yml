@@ -22,12 +22,26 @@ linkedin_username: 형석-김-a12385152
 
 # About Section
 about_profile_image: images/profile.jpg
-about_content: |
-  I'm a <mark>backend web developer</mark> with over 7 years of hands-on experience. I've worked across various industries, building <mark>ERP systems</mark>, <mark>platform APIs</mark>, and <mark>admin tools</mark>.
+about_content: | # this will include new lines to allow paragraphs
+  I am a <mark>web backend developer</mark> with 7 years of professional experience, primarily focused on <mark>analyzing and improving existing legacy systems</mark> rather than building greenfield features from scratch. I have mainly worked in real-world production environments where constraints such as service termination, data inconsistency, and undocumented codebases are common, taking responsibility for stabilizing and maintaining systems under such conditions.
 
-  My main expertise lies in backend development using <mark>Java (Spring Boot)</mark> and <mark>PHP</mark>, with strong proficiency in RDBMS such as MySQL and PostgreSQL. I've also participated in frontend development using <mark>React</mark>, gaining a broader understanding of the entire development flow.
+  My core expertise lies in backend development using <mark>Java (Spring Boot)</mark> and <mark>PHP</mark>, with extensive hands-on experience in <mark>data modeling, migration, and integrity validation</mark> using major RDBMS such as MySQL and PostgreSQL. I have repeatedly handled data migration and verification tasks in domains where <mark>accuracy is critical</mark>, including payroll and labor-related systems.
 
-  I follow Git Flow-based branching strategies, and actively document APIs and workflows using Notion and Swagger. I'm comfortable working in cross-functional teams with planners, designers, and other developers, and enjoy collaborative environments with agile processes like Scrum and retrospectives.
+  I place greater value on <mark>structuring problem situations and turning them into solvable tasks</mark> than on specific technologies themselves. I manage change history using a Git Flow–based branching strategy and document system behavior and APIs with Notion and Swagger for effective team sharing. In cross-functional collaboration with planners and designers, I have often played a role in clarifying ambiguous requirements and translating them into working, production-ready solutions.
+
+  ---
+  <mark>Key Strengths</mark>
+
+  - Analyzing and maintaining legacy codebases while delivering stable functional improvements
+  - Designing data migration pipelines and ensuring data integrity in systems handling Excel and CSV inputs
+  - Structuring operational issues and constraints into actionable and solvable engineering problems
+  - Handling data validation and processing in accuracy-critical domains such as payroll and labor management
+  - Building sustainable development environments through documentation and cross-team collaboration
+
+  ---
+  <mark>Currently Learning</mark>
+
+  - Building a deeper understanding of JVM internals, focusing on memory flow, object creation, class loading, and runtime behavior to reach an interview-explainable level
 
 content:
   - title: Experience
