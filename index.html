@@ -177,6 +177,20 @@
     color: var(--ink-soft);
     margin: 0 0 1.1rem;
   }
+  .hero__top {
+    display: flex;
+    align-items: center;
+    gap: 1.3rem;
+    margin-bottom: 1.6rem;
+  }
+  .hero__photo {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--rule);
+    flex-shrink: 0;
+  }
   .hero__name {
     font-family: var(--serif);
     font-weight: 600;
@@ -185,6 +199,7 @@
     letter-spacing: -0.02em;
     margin: 0 0 1.6rem;
   }
+  .hero__top .hero__name { margin: 0; }
   .hero__thesis {
     font-family: var(--serif);
     font-size: clamp(1.12rem, 1rem + 0.5vw, 1.32rem);
@@ -510,7 +525,10 @@
 <header class="hero frame">
   <div class="spine">
     <p class="hero__eyebrow">웹 백엔드 개발자 · 만 7년</p>
-    <h1 class="hero__name">김형석</h1>
+    <div class="hero__top">
+      <img class="hero__photo" src="images/profile.jpg" alt="김형석">
+      <h1 class="hero__name">김형석</h1>
+    </div>
     <p class="hero__thesis">
       이탈한 개발자의 프로젝트에 투입되고, 서비스가 종료된 시스템의 데이터를 넘겨받고,
       문서 없는 <em>레거시</em>를 분석해 왔습니다. 새로 짓는 일보다
